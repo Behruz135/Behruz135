@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Behruz! 👋
 
-<!--
-**Behruz135/Behruz135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at Baku State University
 
-Here are some ideas to get you started:
+💻 Currently learning C++ and programming fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Interested in:
+
+- C++
+- Computer Science
+- Algorithms
+- Software Development
+
+🌱 Learning, practicing, and building my programming skills.
+
+📍 Baku, Azerbaijan
